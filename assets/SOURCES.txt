@@ -1,0 +1,52 @@
+Image sources for the local concept. Downloaded November 16, 2026.
+
+hero-yamaha-generated.png / generated with OpenAI built-in image_gen, 2026-11-16.
+Current hero banner. Prompt: hero-yamaha-generated-prompt.txt.
+
+hero-yamaha.jpg / City of Sydney, What's On
+https://res.cloudinary.com/cityofsydney/image/upload/f_auto/c_fill%2Ch_960%2Cw_2560/v1698465859/k7h9gk6i1z6d/rZQXmCvCGLIU13YeSvX0d/841a4a20-7546-11ee-baf3-6b46eb498040--Polish-National-Independence-Day-Celebrations--hero.jpg
+
+guitar-category.jpg
+https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=700&q=85
+
+sound-category.jpg
+https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=700&q=85
+
+microphone-category.jpg
+https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=700&q=85
+
+light-category.jpg
+https://images.unsplash.com/photo-1506157786151-b8491531f063?w=700&q=85
+
+jbl.webp / JBL Professional
+https://adn.harmanpro.com/product_attachments/product_attachments/7091_1728986392/mkii305-angle_z_x_large.webp
+
+numark.jpg / Vardhaman Megatech
+https://vmt.in/cdn/shop/products/hf125_1_2048x2048.jpg?v=1620885791
+
+behringer.png / Music Center
+https://musiccenter.pl/userdata/public/gfx/49508/Behringer-C-1U-USB.png
+
+akg-dual-product.jpg / Heureka
+https://img-cdn.heureka.group/v1/69154311-644d-5f1e-a0f4-4856f055c60d.jpg
+
+akg-single.jpg / Gear4music
+https://r2.gear4music.com/media/19/196899/600/preview.jpg
+
+yamaha-f310.jpg / Yamaha
+https://usa.yamaha.com/files/f310_nt_a_0001_f_1_7e8d4160a7987122c06ed8bbe5c4feef.jpg?imhei=900&impolicy=resize&imwid=900
+
+Fonts / Google Fonts
+Oswald, weights 500, 600, 700. Roboto, weights 400, 500, 600, 700.
+https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Roboto:wght@400;500;600;700&display=swap
+Font licenses: Oswald-OFL.txt, Roboto-OFL.txt.
+
+Content and illustrative prices
+https://muzpetro.shop/
+
+This is a local redesign concept. Before commercial publication, confirm rights
+to product photography or replace it with photographs supplied by the store.
+
+WhatsApp SVG icon: Bootstrap Icons v1.11.3, MIT license.
+https://github.com/twbs/icons/blob/v1.11.3/icons/whatsapp.svg
+License: Bootstrap-Icons-LICENSE.txt
